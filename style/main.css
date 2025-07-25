@@ -1,0 +1,48 @@
+/* Fondo general azul oscuro */
+[data-testid="stAppViewContainer"] {
+    background-color: #001f3f;  /* azul oscuro */
+    color: #ffffff;  /* texto en blanco */
+}
+
+/* Títulos principales en blanco */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+/* Texto general en blanco */
+.stMarkdown, .css-10trblm, .css-1v3fvcr {
+    color: #ffffff;
+}
+
+/* Sidebar en azul un poco más claro */
+section[data-testid="stSidebar"] {
+    background-color: #003366;
+    color: #ffffff;
+}
+
+/* Texto en el sidebar */
+section[data-testid="stSidebar"] .css-1v3fvcr {
+    color: #ffffff;
+}
+
+/* Estilo de las pestañas inactivas */
+.stTabs [data-baseweb="tab"] {
+    background-color: #003366;
+    color: #ffffff;
+    border-radius: 8px 8px 0 0;
+    padding: 10px;
+    margin-right: 4px;
+}
+
+/* Estilo de la pestaña activa */
+.stTabs [data-baseweb="tab"][aria-selected="true"] {
+    background-color: #ffcc00;
+    color: #000000;
+    font-weight: bold;
+}
+
+/* Footer o caption */
+footer, .css-qri22k {
+    color: #ffffff;
+    font-style: italic;
+}
