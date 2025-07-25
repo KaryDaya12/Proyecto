@@ -1,13 +1,8 @@
-streamlit>=1.25
+streamlit
+pillow
+sqlalchemy
 pandas
-numpy
 plotly
-prophet
+numpy
 scikit-learn
-seaborn
-requests
 tensorflow
-Sqlalchemy
-io
-base64
-PIL
