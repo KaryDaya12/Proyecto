@@ -1,6 +1,6 @@
 streamlit
 pillow
-Sqlalchemy
+sqlalchemy
 pandas
 plotly
 numpy
