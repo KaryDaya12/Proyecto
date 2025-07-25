@@ -7,7 +7,7 @@ scikit-learn
 seaborn
 requests
 tensorflow
-sqlalchemy
+Sqlalchemy
 io
 base64
 PIL
